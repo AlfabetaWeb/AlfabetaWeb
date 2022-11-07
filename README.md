@@ -1,7 +1,7 @@
 
 ### I am B.A. Ballesteros but you can find me online as Alfabeta Web
 
-## Full Stack Developer (trainee). Student at Full Stack Developer Bootcamp at @GeeksHubs Academy. Eager to learn, improve and practice. Open to collaborate
+## Full Stack Developer. I have studied at Full Stack Developer Bootcamp. Eager to learn, improve and practice. Open to collaborate
 
 ## Interested in learn about AI and security
 
